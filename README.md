@@ -94,7 +94,7 @@ Friendly AI chatbot. Respond in a conversational and engaging manner.
 
 Check the course notes for a detailed breakdown of the course material.
 
-[Here](https://github.com/RiddhiAiran/AI-Chatbot-qwen2.5/blob/main/Qwen%202.5.pdf)
+[Here](https://github.com/RiddhiAiran/AI-Chatbot-qwen2.5/blob/main/Notes.pdf)
 
 ---
 
